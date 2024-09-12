@@ -1,0 +1,100 @@
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\pxKestrelLibrary.deps.json
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\pxKestrelLibrary.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\pxKestrelLibrary.pdb
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\pxCore.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\pxRPC.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\OpenAI_API.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\obj\Debug\net6.0-windows\pxKestrelLibrary.csproj.AssemblyReference.cache
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\obj\Debug\net6.0-windows\pxKestrelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\obj\Debug\net6.0-windows\pxKestrelLibrary.AssemblyInfoInputs.cache
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\obj\Debug\net6.0-windows\pxKestrelLibrary.AssemblyInfo.cs
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\obj\Debug\net6.0-windows\pxKestrelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\obj\Debug\net6.0-windows\pxKestrelLibrary.csproj.CopyComplete
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\obj\Debug\net6.0-windows\pxKestrelLibrary.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\obj\Debug\net6.0-windows\refint\pxKestrelLibrary.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\obj\Debug\net6.0-windows\pxKestrelLibrary.pdb
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\obj\Debug\net6.0-windows\ref\pxKestrelLibrary.dll
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\obj\Debug\net6.0-windows\pxKestrelLibrary.Properties.Resources.resources
+C:\Users\jvargas\Documents\Kestrel\ProcXim\KestrelLibrary\obj\Debug\net6.0-windows\pxKestrelLibrary.csproj.GenerateResource.cache
+G:\Visual Studio 2022\Projects\KestrelLibrary\obj\Debug\net6.0-windows\pxKestrelLibrary.csproj.AssemblyReference.cache
+G:\Visual Studio 2022\Projects\KestrelLibrary\obj\Debug\net6.0-windows\pxKestrelLibrary.Properties.Resources.resources
+G:\Visual Studio 2022\Projects\KestrelLibrary\obj\Debug\net6.0-windows\pxKestrelLibrary.csproj.GenerateResource.cache
+G:\Visual Studio 2022\Projects\KestrelLibrary\obj\Debug\net6.0-windows\pxKestrelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Studio 2022\Projects\KestrelLibrary\obj\Debug\net6.0-windows\pxKestrelLibrary.AssemblyInfoInputs.cache
+G:\Visual Studio 2022\Projects\KestrelLibrary\obj\Debug\net6.0-windows\pxKestrelLibrary.AssemblyInfo.cs
+G:\Visual Studio 2022\Projects\KestrelLibrary\obj\Debug\net6.0-windows\pxKestrelLibrary.csproj.CoreCompileInputs.cache
+G:\Visual Studio 2022\Projects\KestrelLibrary\obj\Debug\net6.0-windows\pxKestrelLibrary.dll
+G:\Visual Studio 2022\Projects\KestrelLibrary\obj\Debug\net6.0-windows\refint\pxKestrelLibrary.dll
+G:\Visual Studio 2022\Projects\KestrelLibrary\obj\Debug\net6.0-windows\pxKestrelLibrary.pdb
+G:\Visual Studio 2022\Projects\KestrelLibrary\bin\Debug\net6.0-windows\Resources\code-class1.png
+G:\Visual Studio 2022\Projects\KestrelLibrary\bin\Debug\net6.0-windows\Resources\cog.png
+G:\Visual Studio 2022\Projects\KestrelLibrary\bin\Debug\net6.0-windows\Resources\Connection.png
+G:\Visual Studio 2022\Projects\KestrelLibrary\bin\Debug\net6.0-windows\Resources\edit-delete-9.png
+G:\Visual Studio 2022\Projects\KestrelLibrary\bin\Debug\net6.0-windows\Resources\emblem-important-yellow1.png
+G:\Visual Studio 2022\Projects\KestrelLibrary\bin\Debug\net6.0-windows\Resources\Extensions.png
+G:\Visual Studio 2022\Projects\KestrelLibrary\bin\Debug\net6.0-windows\Resources\Folder.png
+G:\Visual Studio 2022\Projects\KestrelLibrary\bin\Debug\net6.0-windows\Resources\list-add-21.png
+G:\Visual Studio 2022\Projects\KestrelLibrary\bin\Debug\net6.0-windows\Resources\New document.png
+G:\Visual Studio 2022\Projects\KestrelLibrary\bin\Debug\net6.0-windows\Resources\Refresh.bmp
+G:\Visual Studio 2022\Projects\KestrelLibrary\bin\Debug\net6.0-windows\Resources\Run.png
+G:\Visual Studio 2022\Projects\KestrelLibrary\bin\Debug\net6.0-windows\Resources\52.png
+G:\Visual Studio 2022\Projects\KestrelLibrary\bin\Debug\net6.0-windows\Resources\list-add-2.png
+G:\Visual Studio 2022\Projects\KestrelLibrary\bin\Debug\net6.0-windows\pxKestrelLibrary.deps.json
+G:\Visual Studio 2022\Projects\KestrelLibrary\bin\Debug\net6.0-windows\pxKestrelLibrary.dll
+G:\Visual Studio 2022\Projects\KestrelLibrary\bin\Debug\net6.0-windows\pxKestrelLibrary.pdb
+G:\Visual Studio 2022\Projects\KestrelLibrary\bin\Debug\net6.0-windows\pxCore.dll
+G:\Visual Studio 2022\Projects\KestrelLibrary\bin\Debug\net6.0-windows\pxRPC.dll
+G:\Visual Studio 2022\Projects\KestrelLibrary\bin\Debug\net6.0-windows\pxCore.pdb
+G:\Visual Studio 2022\Projects\KestrelLibrary\bin\Debug\net6.0-windows\pxRPC.pdb
+G:\Visual Studio 2022\Projects\KestrelLibrary\obj\Debug\net6.0-windows\pxKestrelLibrary.csproj.CopyComplete
+G:\Visual Studio 2022\Projects\KestrelLibrary\obj\Debug\net6.0-windows\ref\pxKestrelLibrary.dll
+C:\Users\James.Payne\Source\Repos\J-P-Projects\ProcXim\bin\Debug\net6.0-windows\pxKestrelLibrary.deps.json
+C:\Users\James.Payne\Source\Repos\J-P-Projects\ProcXim\bin\Debug\net6.0-windows\pxKestrelLibrary.dll
+C:\Users\James.Payne\Source\Repos\J-P-Projects\ProcXim\bin\Debug\net6.0-windows\pxKestrelLibrary.pdb
+C:\Users\James.Payne\Source\Repos\J-P-Projects\ProcXim\bin\Debug\net6.0-windows\pxCore.dll
+C:\Users\James.Payne\Source\Repos\J-P-Projects\ProcXim\obj\Debug\net6.0-windows\pxKestrelLibrary.csproj.AssemblyReference.cache
+C:\Users\James.Payne\Source\Repos\J-P-Projects\ProcXim\obj\Debug\net6.0-windows\pxKestrelLibrary.Properties.Resources.resources
+C:\Users\James.Payne\Source\Repos\J-P-Projects\ProcXim\obj\Debug\net6.0-windows\pxKestrelLibrary.csproj.GenerateResource.cache
+C:\Users\James.Payne\Source\Repos\J-P-Projects\ProcXim\obj\Debug\net6.0-windows\pxKestrelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James.Payne\Source\Repos\J-P-Projects\ProcXim\obj\Debug\net6.0-windows\pxKestrelLibrary.AssemblyInfoInputs.cache
+C:\Users\James.Payne\Source\Repos\J-P-Projects\ProcXim\obj\Debug\net6.0-windows\pxKestrelLibrary.AssemblyInfo.cs
+C:\Users\James.Payne\Source\Repos\J-P-Projects\ProcXim\obj\Debug\net6.0-windows\pxKestrelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\James.Payne\Source\Repos\J-P-Projects\ProcXim\obj\Debug\net6.0-windows\pxKestre.5D67936D.Up2Date
+C:\Users\James.Payne\Source\Repos\J-P-Projects\ProcXim\obj\Debug\net6.0-windows\pxKestrelLibrary.dll
+C:\Users\James.Payne\Source\Repos\J-P-Projects\ProcXim\obj\Debug\net6.0-windows\refint\pxKestrelLibrary.dll
+C:\Users\James.Payne\Source\Repos\J-P-Projects\ProcXim\obj\Debug\net6.0-windows\pxKestrelLibrary.pdb
+C:\Users\James.Payne\Source\Repos\J-P-Projects\ProcXim\obj\Debug\net6.0-windows\ref\pxKestrelLibrary.dll

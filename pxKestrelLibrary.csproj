@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+	  
+    <Version>1.0.0.3042</Version>
+	  
+    <IncrementVersionOnBuild>1.0.0.0+</IncrementVersionOnBuild>
+	  
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="pxCore">
+      <HintPath>..\..\..\..\..\..\Program Files\ProcXim Software\ProcXim\pxCore.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="md &quot;$(ProjectDir)..\ProcXim\bin\$(Configuration)\net6.0-windows\Extensions\&quot;&#xD;&#xA;copy /Y &quot;$(OutDir)&quot; &quot;$(ProjectDir)..\ProcXim\bin\$(Configuration)\net6.0-windows\Extensions\&quot;" />
+  </Target>
+
+</Project>
